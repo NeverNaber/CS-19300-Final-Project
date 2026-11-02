@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="rFcHbo1cGBfi3UFH6rDE">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-17" edge="1" parent="1" source="ep5e9XnVNmXdngRgMg_c-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ep5e9XnVNmXdngRgMg_c-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-15" edge="1" parent="1" source="ep5e9XnVNmXdngRgMg_c-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ep5e9XnVNmXdngRgMg_c-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Program start" vertex="1">
+          <mxGeometry height="30" width="60" x="60" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Program initializes chess board and starting pieces" vertex="1">
+          <mxGeometry height="30" width="90" x="45" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-13" edge="1" parent="1" source="ep5e9XnVNmXdngRgMg_c-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ep5e9XnVNmXdngRgMg_c-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Choose a piece and move" vertex="1">
+          <mxGeometry height="30" width="90" x="45" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-21" edge="1" parent="1" source="ep5e9XnVNmXdngRgMg_c-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ep5e9XnVNmXdngRgMg_c-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Is the move valid and fits all misc rules and conditions?" vertex="1">
+          <mxGeometry height="30" width="90" x="395" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-29" edge="1" parent="1" source="ep5e9XnVNmXdngRgMg_c-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ep5e9XnVNmXdngRgMg_c-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="295" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-20" edge="1" parent="1" source="ep5e9XnVNmXdngRgMg_c-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.441;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="ep5e9XnVNmXdngRgMg_c-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-23" edge="1" parent="1" source="ep5e9XnVNmXdngRgMg_c-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="ep5e9XnVNmXdngRgMg_c-22" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="80" as="sourcePoint" />
+            <mxPoint x="520" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes?" vertex="1">
+          <mxGeometry height="30" width="90" x="460" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-26" edge="1" parent="1" source="ep5e9XnVNmXdngRgMg_c-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="ep5e9XnVNmXdngRgMg_c-24" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="80" as="sourcePoint" />
+            <mxPoint x="333" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No?" vertex="1">
+          <mxGeometry height="30" width="90" x="295" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Invalid move, and player must choose again" vertex="1">
+          <mxGeometry height="30" width="90" x="310" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-33" edge="1" parent="1" source="ep5e9XnVNmXdngRgMg_c-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Move piece from previous square to new square" vertex="1">
+          <mxGeometry height="30" width="90" x="475" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-36" edge="1" parent="1" source="ep5e9XnVNmXdngRgMg_c-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Capture an enemy piece if applicable" vertex="1">
+          <mxGeometry height="30" width="90" x="475" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-39" edge="1" parent="1" source="ep5e9XnVNmXdngRgMg_c-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ep5e9XnVNmXdngRgMg_c-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Switch turns to the other player." vertex="1">
+          <mxGeometry height="30" width="90" x="475" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="5djWX8kB3B7FvFfKgKFk-3" edge="1" parent="1" source="ep5e9XnVNmXdngRgMg_c-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="5djWX8kB3B7FvFfKgKFk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="ep5e9XnVNmXdngRgMg_c-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Repeat this process back and forth until a win or draw." vertex="1">
+          <mxGeometry height="30" width="90" x="285" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="5djWX8kB3B7FvFfKgKFk-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="5djWX8kB3B7FvFfKgKFk-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Saves and loads game if players don&#39;t want to finish" vertex="1">
+          <mxGeometry height="30" width="90" x="105" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="5djWX8kB3B7FvFfKgKFk-4" edge="1" parent="1" source="5djWX8kB3B7FvFfKgKFk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.192;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="ep5e9XnVNmXdngRgMg_c-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
