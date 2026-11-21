@@ -29,47 +29,39 @@ Current elements:
 
 ### Requirements
 
-- Java Development Kit.
-- Git.
-- Visual Studio Code or another java runner.
+- Java Development Kit (JDK) 11 or newer.
+- Visual Studio Code or another Java IDE.
 
-### Cloning the Repository
+### Downloading the Repository
 
-1. Open a terminal.
-
-2. Clone the repository:
-
-   ```bash
-   git clone https://github.com/NeverNaber/CS-19300-Final-Project.git
-   ```
-
-3. Navigate into the project folder:
-
-   ```bash
-   cd CS-19300-Final-Project
-   ```
+1. Open the [GitHub repository](https://github.com/NeverNaber/CS-19300-Final-Project).
+2. Click the green **Code** button.
+3. Select **Download ZIP**.
+4. Extract the downloaded ZIP file.
+5. Open the extracted `CS-19300-Final-Project` folder in Visual Studio Code.
 
 ### Running the Application
 
-You will need a computer capable of opening a java swing window.
-
-1. Create an output folder:
+1. Open the terminal in Visual Studio Code.
+2. Create an output folder:
 
    ```bash
    mkdir out
    ```
 
-2. Compile the application:
+3. Compile the Java files:
 
    ```bash
    javac -d out src/Main.java src/DrawingPanel.java
    ```
 
-3. Run the application:
+4. Run the application:
 
    ```bash
    java -cp out Main
    ```
+
+When the application loads, you will see the starting board, pieces, and the text box to type your move into.
 
 ## Example
 
