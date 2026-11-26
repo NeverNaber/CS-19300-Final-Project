@@ -210,7 +210,9 @@ public class Main {
                                 } else if (pieces.get(chosenPiece[0]).getType().equals("♝") || pieces.get(chosenPiece[0]).getType().equals("♛")) {
                                     
                                 } else if (pieces.get(chosenPiece[0]).getType().equals("♜") || pieces.get(chosenPiece[0]).getType().equals("♛")) {
-
+                                    if (fileN == pieces.get(chosenPiece[0]).getC() || rank == pieces.get(chosenPiece[0]).getR()) {
+                                        
+                                    }
                                 } else if (pieces.get(chosenPiece[0]).getType().equals("♚")) {
                                     if (!(fileN == pieces.get(chosenPiece[0]).getC() && rank == pieces.get(chosenPiece[0]).getR())) {
                                         if (Math.abs(fileN - pieces.get(chosenPiece[0]).getC()) == 1|| Math.abs(rank - pieces.get(chosenPiece[0]).getR()) == 1) {
