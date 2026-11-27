@@ -92,7 +92,7 @@ The following checklist tracks the six original project milestones.
 
 - [x] Get the board and pieces to show up visually.
 - [x] Get the logic for pieces moving and where they can go.
-- [ ] Disallow pieces moving past an edge, onto a same-colored piece, etc.
+- [x] Disallow pieces moving past an edge, onto a same-colored piece, etc.
 - [x] Implement captures and removing pieces.
 - [ ] Implement final conditions like checkmate or stalemate.
 - [ ] Implement miscellaneous conditions and rules like castling or not being able to move the king into check.
