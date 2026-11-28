@@ -95,7 +95,7 @@ The following checklist tracks the six original project milestones.
 - [x] Disallow pieces moving past an edge, onto a same-colored piece, etc.
 - [x] Implement captures and removing pieces.
 - [ ] Implement final conditions like checkmate or stalemate.
-- [ ] Implement miscellaneous conditions and rules like castling or not being able to move the king into check.
+- [x] Implement miscellaneous conditions and rules like castling or not being able to move the king into check.
 
 ## MVP / Eisenhower Prioritization
 
